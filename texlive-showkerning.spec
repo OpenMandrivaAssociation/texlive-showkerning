@@ -1,6 +1,6 @@
 Name:		texlive-showkerning
-Version:	63708
-Release:	2
+Version:	67603
+Release:	1
 Summary:	Showing kerns in a document
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/showkerning
