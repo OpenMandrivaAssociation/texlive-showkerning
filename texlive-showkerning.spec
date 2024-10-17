@@ -3,7 +3,7 @@ Version:	67603
 Release:	1
 Summary:	Showing kerns in a document
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/showkerning
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/showkerning
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/showkerning.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/showkerning.doc.r%{version}.tar.xz
